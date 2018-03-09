@@ -1,0 +1,13 @@
+http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%E5%8D%97%E4%BA%AC&kw=python&p=1&isadv=0
+http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%E5%8C%97%E4%BA%AC&kw=python&p=1&isadv=0
+http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%E5%8C%97%E4%BA%AC&kw=java&p=1&isadv=0
+http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%E5%8C%97%E4%BA%AC&kw=java&isadv=0&sg=398a3a9b12084ef8aaf1594cf962676a&p=2
+http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%E5%8C%97%E4%BA%AC&kw=java&isadv=0&sg=398a3a9b12084ef8aaf1594cf962676a&p=4
+http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%E5%8C%97%E4%BA%AC&kw=java&sm=0&p=90&isfilter=0&fl=530&isadv=0&sg=398a3a9b12084ef8aaf1594cf962676a
+
+
+
+
+
+
+
